@@ -13,7 +13,7 @@ public class Ques_6 {
             else if(age > 40)
                 System.out.println("500 added to your salary\nTotal Salary: "+(salary+500));
             else
-            System.out.println("No money added\nTotal Salary: "+(salary+1000));
+                System.out.println("No money added\nTotal Salary: "+(salary));
         }
     }
 }
